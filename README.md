@@ -1,3 +1,3 @@
-# ReactとThree.jｓで遊ぶ
+# ReactとThree.jsで遊ぶ
 
 https://gorirakuniro.github.io/React_three/
